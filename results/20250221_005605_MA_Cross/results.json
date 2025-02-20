@@ -1,0 +1,12 @@
+{
+    "performance": {
+        "strategy_return": -0.00400474000000002,
+        "trade_count": 54
+    },
+    "parameters": {
+        "short_window": 3,
+        "long_window": 15,
+        "stop_loss": 0.03,
+        "take_profit": 0.08
+    }
+}

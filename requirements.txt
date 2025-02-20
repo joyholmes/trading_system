@@ -1,0 +1,9 @@
+PyYAML==6.0.1
+pandas==2.1.0
+python-binance==1.0.19
+numpy==1.24.3
+akshare>=1.10.0
+tushare>=1.2.89
+python-dateutil>=2.8.2
+requests>=2.31.0
+websocket-client>=1.6.1 
